@@ -1,7 +1,11 @@
 # Insight_engine
+
 Overview: This is a personal assistant program developed in Python, designed to perform various tasks such as searching Wikipedia, opening websites, playing music, and more.
 
+
+
 🌟 Features:
+
 •	🗣 Voice Recognition: Capture and process voice commands for seamless interaction.
 
 •	👋 Greeting: Receive a personalized greeting based on the time of day.
@@ -17,8 +21,12 @@ Overview: This is a personal assistant program developed in Python, designed to 
 •	💻 Application Launching: Launch Visual Studio Code or any specified application with ease.
 
 
+
 🔧 Necessary Installation:
+
 •	pip install pyttsx3 → Provides audio output for the program.
+
 •	pip install speech Recognition → Enables voice command processing using the microphone.
+
 •	pip install Wikipedia → Allows for Wikipedia search functionality.
 
