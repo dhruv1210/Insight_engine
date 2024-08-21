@@ -3,11 +3,17 @@ Overview: This is a personal assistant program developed in Python, designed to 
 
 🌟 Features:
 •	🗣 Voice Recognition: Capture and process voice commands for seamless interaction.
+
 •	👋 Greeting: Receive a personalized greeting based on the time of day.
+
 •	🔍 Wikipedia Search: Effortlessly search and receive summaries from Wikipedia.
+
 •	🌐 Website Navigation: Instantly open popular websites like YouTube, Google, and Stack Overflow.
+
 •	🎵 Music Playback: Enjoy your favourite tunes from a specified directory.
+
 •	⏰ Time Checking: Get the current time with a simple command.
+
 •	💻 Application Launching: Launch Visual Studio Code or any specified application with ease.
 
 
